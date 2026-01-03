@@ -36,6 +36,7 @@ This project turns an ESP32 + MPU6050 into a BLE air mouse.
 
 This project uses a modified version of the BleMouse library.
 A small change was made to improve responsiveness.
-The modified library is included in the `lib/BleMouse` folder.
+A modified version of the BleMouse library is included in this repository.
+
 
 
